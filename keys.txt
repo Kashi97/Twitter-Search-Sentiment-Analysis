@@ -1,0 +1,4 @@
+consumer_key : abcdabcdabcdabcdabcdabcd
+consumer_secret : abcdabcdabcdabcdabcdabcd
+access_token : abcdabcdabcdabcdabcdabcd
+access_token_secret : abcdabcdabcdabcdabcdabcd

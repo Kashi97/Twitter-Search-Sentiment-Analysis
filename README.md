@@ -37,9 +37,9 @@ python3 TwitterSent.py —search Apples —interval 30 --amount 50 --filename ou
 Parameter 			        | Flag 	| Description
 ------------------------|------------|------------
 Search term     	| `--search`	| The keyword/string that is searched for on twitter
-Output path             | `--interval`	| The amount of minutes the program waits before running again after the first time 
-Randomness 			        | `--amount`	| How many tweets it gathers and performs sentiment analysis on
-Threshold (lower)     	| `--filename`	| The filename of the file which contains the time and results from each run. It will be created if it does not already exist
+Run interval (minutes)           | `--interval`	| The amount of minutes the program waits before running again after the first time 
+Amount of tweets 			        | `--amount`	| How many tweets it gathers and performs sentiment analysis on
+Output filename     	| `--filename`	| The filename of the file which contains the time and results from each run. It will be created if it does not already exist
 
 
 It can also be used a package. Example in example.py

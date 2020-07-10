@@ -6,7 +6,7 @@ Uses tweepy to get the tweets and textblob to perform the sentiment analysis
 
 Can be run once, returning the amount of positive and negative tweets for the search term and amount of tweets
 
-Or run forever in specified intervals and write the results to a file with date
+Or run forever in specified intervals and write the results to a file
 
 ### Dependencies
 
